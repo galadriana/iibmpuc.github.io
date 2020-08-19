@@ -1,5 +1,5 @@
 #theme: jekyll-theme-slate
 remote_theme: chrisbobbe/jekyll-theme-prologue
-avatar: path/to/your/photo.jpg
+avatar: section/path/to/your/photo.jpg
 collections: [sections]
 
