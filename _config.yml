@@ -1,1 +1,4 @@
-theme: jekyll-theme-slate
+#theme: jekyll-theme-slate
+remote_theme: chrisbobbe/jekyll-theme-prologue
+avatar: assets/images/avatar.jpg 
+collections: [sections]
