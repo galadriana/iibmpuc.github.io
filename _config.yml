@@ -1,5 +1,5 @@
 #theme: jekyll-theme-prologue
 remote_theme: chrisbobbe/jekyll-theme-prologue
-avatar: _section/path/to/your/photo.jpg
+avatar: _section/path/images/to/photo.png
 collections: [sections]
 
